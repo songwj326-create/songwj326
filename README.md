@@ -16,5 +16,8 @@ I enjoy working with data to extract meaningful insights and continuously build 
 I aim to become a Data Analyst, 
 combining programming and statistical knowledge to solve real-world problems.
 
+🏅 Certifications
+SQL Advanced Level
+
 📫 Contact
 Email: songwj326@gmail.com
